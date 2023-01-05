@@ -1,0 +1,3 @@
+resource_space_pull_homepage:
+    path:     /resource_space_pull
+    defaults: { _controller: ResourceSpacePullBundle:Default:index }

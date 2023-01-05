@@ -1,0 +1,10 @@
+resource_space_pull:
+  resource_space:
+    resource_url: 'https://##CHANGEME##.resourcespace.com/api?'
+    resource_user: '##CHANGEME##'
+    resource_apikey: '##CHANGEME##'
+  tmp_template_upload_pimcore_dir: var/tmp/
+  asset_folder: 'images'
+  in_progress_process_life: 360
+  max_parallel_active_process_count: 2
+  schedule_screen_refresh_time: 1
